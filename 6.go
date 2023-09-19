@@ -1,1 +1,8 @@
-# This is file 6.go
+// Printing a string in go
+
+package main
+import "fmt"
+
+func main() {
+    fmt.Print("Hello World")
+}
