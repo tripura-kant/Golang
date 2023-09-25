@@ -1,1 +1,3 @@
-# This is file 16.go
+//
+
+const age = 12
