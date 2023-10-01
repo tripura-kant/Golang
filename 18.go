@@ -13,6 +13,6 @@ class cyclinder:
         return (2 * top) + (2 * 3.14 * self.radius * self.height)
 
 
-mycyclinder = cyclinder(2, 3)
+mycyclinder = cyclinder(2, 5)
 
 print(mycyclinder.volume())
