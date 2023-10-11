@@ -1,1 +1,12 @@
-# This is file 22.go
+// Go Program that print date and time
+
+package main
+
+import (
+    "fmt"
+    "time"
+)
+
+func main() {
+    fmt.Println(time.Now())
+}
