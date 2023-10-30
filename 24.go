@@ -1,1 +1,2 @@
-# This is file 24.go
+// Go by Example: Values
+

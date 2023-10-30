@@ -1,1 +1,9 @@
-# This is file 23.go
+// Go by Example: Hello World
+
+package main
+
+import "fmt"
+
+func main() {
+    fmt.Println("hello world")
+}
