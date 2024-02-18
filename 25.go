@@ -1,1 +1,7 @@
-# This is file 25.go
+package main
+import "fmt"
+
+func main() {
+    hello:= "Hello World!"
+    fmt.Println(hello)
+}
